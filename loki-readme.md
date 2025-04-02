@@ -361,13 +361,6 @@ minikube stop
 | Cost | Low | Medium | High |
 | Integration with Metrics | Excellent | Good | Limited |
 
-## Contributing
-
-Contributions are welcome! Grafana Loki is an open-source project.
-
-- [GitHub Repository](https://github.com/grafana/loki)
-- [Issue Tracker](https://github.com/grafana/loki/issues)
-- [Contribution Guidelines](https://github.com/grafana/loki/blob/master/CONTRIBUTING.md)
 
 ## Resources
 
