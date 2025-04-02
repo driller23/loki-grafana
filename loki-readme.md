@@ -25,7 +25,7 @@ Loki follows a three-component architecture:
 2. **Loki**: Main server component that stores logs and processes queries
 3. **Grafana**: UI for querying and visualizing logs
 
-![Loki Architecture](https://grafana.com/static/img/docs/loki/loki-architecture.svg)
+![Loki Architecture](https://github.com/driller23/loki-grafana/blob/main/1000111680.webp)
 
 ### Data Flow
 
